@@ -1,0 +1,1 @@
+Para abrir o htmlcov/index.html dentro do WSL precisa instalar o `wslu` com `sudo apt install wslu` e depois toda vez rodar `wslview /home/felipe/dev/fast_zero_2025/htmlcov/index.html`
